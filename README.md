@@ -1,4 +1,4 @@
-Data Definition Language (DDL), Data Query Language (DQL), Data Manipulation Language (DML) in Oracle.
+Data Definition Language (DDL), Data Query Language (DQL) and Data Manipulation Language (DML) in Oracle.
 
 The project contains 3 folders with different scripts for different commands and operations:
 - The [Problem 1](https://github.com/Iri25/ds-Iri25/tree/main/Problem%201) folder contains scripts for creating tables, adding, modifying, deleting data in tables, table restrictions, system views, stored procedures with and without parameters, displaying data in the PHP programming environment.
