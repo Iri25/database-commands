@@ -1,3 +1,4 @@
+# database-commands
 Data Definition Language (DDL), Data Query Language (DQL) and Data Manipulation Language (DML) in Oracle.
 
 The project contains 3 folders with different scripts for different commands and operations:
