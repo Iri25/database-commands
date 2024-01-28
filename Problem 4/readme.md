@@ -6,6 +6,6 @@
 2. Implement the following operations (Query SELECT):
 - from the entity with valid time attribute, to return the interval in which the row (record) was updated more recently it had the maximum value
 - from an entity with transaction time attribute, to return the number of rows that had operations on them (INSERT/DELETE/UPDATE) from each week, from the last 4 weeks
-- at least 3 (different) operations for temporal data that have a numerical result
-- at least 3 (different) operations for temporal data that have a temporal result
-- at least 2 (different) operations for temporal data that have a boolean result
+- 3 operations for temporal data that have a numerical result
+- 3 operations for temporal data that have a temporal result
+- 2 operations for temporal data that have a boolean result
